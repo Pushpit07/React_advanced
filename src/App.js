@@ -1,6 +1,6 @@
 import React from "react";
 import Setup from "./tutorial/2-useEffect/setup/1-useEffect-basics";
-import Final from "./tutorial/4-forms/final/2-multiple-inputs";
+import Final from "./tutorial/7-prop-drilling/final/1-prop-drilling";
 
 function App() {
 	return (
